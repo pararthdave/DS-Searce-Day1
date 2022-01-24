@@ -1,6 +1,6 @@
 # DS-Searce-Day1
 - Topics Learnt
-    -Arrays
+    - Arrays
     - Queues
     - Stacks
     - Linked List
