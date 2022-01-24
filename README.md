@@ -1,5 +1,5 @@
 # DS-Searce-Day1
-- Topics Learnt
+### Topics Learnt
     - Arrays
     - Queues
     - Stacks
